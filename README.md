@@ -61,3 +61,7 @@ Ensemble Scoring: Implementing a "voting" system between Random Forest, XGBoost,
 Zero-Day Detection: Integrating Isolation Forest for unsupervised anomaly detection (finding threats never seen before).
 
 Active Learning: A feedback loop where security analysts can "correct" the AI to refine the model over time.
+
+
+
+https://ml-based-idsgit-xeld7yoj2v5tapprvs88m8m.streamlit.app/
